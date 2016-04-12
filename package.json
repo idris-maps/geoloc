@@ -1,0 +1,14 @@
+{
+  "name": "geoloc",
+  "version": "1.0.0",
+  "description": "Wrapper around navigator.geolocation API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geolocation"
+  ],
+  "author": "idris-maps.com",
+  "license": "GPL-2.0"
+}
