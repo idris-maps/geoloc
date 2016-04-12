@@ -1,13 +1,13 @@
 # Install
 
 ```
-$ npm install geoloc
+$ npm install browser-geolocation
 ```
 
 # Usage 
 
 ```
-var Geolocation = require('geoloc')
+var Geolocation = require('browser-geolocation')
 var geo = new Geolocation()
 ```
 
