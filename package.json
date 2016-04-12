@@ -1,5 +1,5 @@
 {
-  "name": "geolocation-api",
+  "name": "browser-geolocation",
   "version": "1.0.0",
   "description": "Wrapper around navigator.geolocation API",
   "main": "index.js",

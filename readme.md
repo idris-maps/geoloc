@@ -64,8 +64,9 @@ The positions are objects with the following keys:
 * ```alt``` (altitude)
 * ```timestamp``` (milliseconds since 1 January 1970 00:00:00 UTC)
 
+# Convert to GPX
 
-
+There is a separate library to convert ```geo.data``` to GPX: [geolocation-to-gpx](https://www.npmjs.com/package/geolocation-to-gpx)
 
 
 
