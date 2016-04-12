@@ -55,14 +55,14 @@ var positions = geo.data
 var position = geo.latestPosition
 ```
 
-# Postion object
+# Position object
 
 The positions are objects with the following keys:
 
-* lat (latitude)
-* lng (longitude)
-* alt (altitude)
-* timestamp (milliseconds since 1 January 1970 00:00:00 UTC)
+* ```lat``` (latitude)
+* ```lng``` (longitude)
+* ```alt``` (altitude)
+* ```timestamp``` (milliseconds since 1 January 1970 00:00:00 UTC)
 
 
 
